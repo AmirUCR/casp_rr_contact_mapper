@@ -4,4 +4,4 @@ DeepMind's [AlphaFold](https://github.com/deepmind/deepmind-research/tree/master
 
 To run, install seaborn and change the path name in the script where it opens the file.
 
-![image](https://github.com/AmirUCR/casp_rr_contact_mapper/blob/master/screenshot.png "Screenshot")
+![image](https://github.com/AmirUCR/casp_rr_contact_mapper/blob/master/ss.png "Screenshot")
