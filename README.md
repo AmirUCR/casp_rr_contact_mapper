@@ -1,4 +1,4 @@
-A Python 3 notebook that creates a heat map from CASP .RR files
+A Python 3 notebook that creates a heat map from CASP .RR files. Only PFRMAT RR is supported. For format info, please see http://predictioncenter.org/casp13/index.cgi?page=format
 
 DeepMind's [AlphaFold](https://github.com/deepmind/deepmind-research/tree/master/alphafold_casp13) outputs .rr contact maps. This script will visualize them.
 
